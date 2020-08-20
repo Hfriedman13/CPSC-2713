@@ -1,0 +1,10 @@
+C:\Users\SeaMonster\Desktop\SoftwareConstruction\FirstSolution\FirstFormsApplication\bin\Debug\FirstFormsApplication.exe.config
+C:\Users\SeaMonster\Desktop\SoftwareConstruction\FirstSolution\FirstFormsApplication\bin\Debug\FirstFormsApplication.exe
+C:\Users\SeaMonster\Desktop\SoftwareConstruction\FirstSolution\FirstFormsApplication\bin\Debug\FirstFormsApplication.pdb
+C:\Users\SeaMonster\Desktop\SoftwareConstruction\FirstSolution\FirstFormsApplication\obj\Debug\FirstFormsApplication.csprojAssemblyReference.cache
+C:\Users\SeaMonster\Desktop\SoftwareConstruction\FirstSolution\FirstFormsApplication\obj\Debug\FirstFormsApplication.Form1.resources
+C:\Users\SeaMonster\Desktop\SoftwareConstruction\FirstSolution\FirstFormsApplication\obj\Debug\FirstFormsApplication.Properties.Resources.resources
+C:\Users\SeaMonster\Desktop\SoftwareConstruction\FirstSolution\FirstFormsApplication\obj\Debug\FirstFormsApplication.csproj.GenerateResource.cache
+C:\Users\SeaMonster\Desktop\SoftwareConstruction\FirstSolution\FirstFormsApplication\obj\Debug\FirstFormsApplication.csproj.CoreCompileInputs.cache
+C:\Users\SeaMonster\Desktop\SoftwareConstruction\FirstSolution\FirstFormsApplication\obj\Debug\FirstFormsApplication.exe
+C:\Users\SeaMonster\Desktop\SoftwareConstruction\FirstSolution\FirstFormsApplication\obj\Debug\FirstFormsApplication.pdb
